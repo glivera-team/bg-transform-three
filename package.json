@@ -77,7 +77,8 @@
 		"ismobilejs": "^1.1.1",
 		"jquery": "^2.2.4",
 		"npm": "^8.1.2",
-		"regenerator-runtime": "^0.13.9"
+		"regenerator-runtime": "^0.13.9",
+		"three": "^0.150.1"
 	},
 	"resolutions": {
 		"mini-css-extract-plugin": "2.4.5"
